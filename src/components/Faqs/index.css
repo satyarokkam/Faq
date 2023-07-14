@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+.main-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f1f5f8;
+  padding: 30px;
+}
+
+.faqs-container {
+  background-color: #ffffff;
+  min-height: 90vh;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 10px;
+}
+
+.heading {
+  color: #cb8805;
+  font-size: 50px;
+}
